@@ -10,6 +10,7 @@ This project focuses on the intelligent detection of intrusions in Software-Defi
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Dataset](#dataset)
+- [Results](#results)
 - [Contributing](#contributing)
 
 ## Background
@@ -42,6 +43,11 @@ To set up the project locally, follow these steps:
 
 ## Dataset
 The dataset used in this project consists of network traffic data. It includes both normal and attack traffic, enabling the model to learn the characteristics of each.
+
+## Results
+
+After training the model, it achieved the following performance metrics:
+Accuracy: 99.98%
 
 ## Acknowledgments
 - Ericsson for providing guidance and support during the internship.
